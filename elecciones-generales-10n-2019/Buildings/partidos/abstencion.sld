@@ -25,7 +25,7 @@
           <se:PolygonSymbolizer>
             <se:Fill>
               <se:SvgParameter name="fill">#fcfdbf</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">0.75</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">1</se:SvgParameter>
             </se:Fill>
           </se:PolygonSymbolizer>
         </se:Rule>
@@ -49,7 +49,7 @@
           <se:PolygonSymbolizer>
             <se:Fill>
               <se:SvgParameter name="fill">#f68a6c</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">0.75</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">1</se:SvgParameter>
             </se:Fill>
           </se:PolygonSymbolizer>
         </se:Rule>
@@ -73,7 +73,7 @@
           <se:PolygonSymbolizer>
             <se:Fill>
               <se:SvgParameter name="fill">#b53a75</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">0.75</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">1</se:SvgParameter>
             </se:Fill>
           </se:PolygonSymbolizer>
         </se:Rule>
@@ -97,7 +97,7 @@
           <se:PolygonSymbolizer>
             <se:Fill>
               <se:SvgParameter name="fill">#501377</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">0.75</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">1</se:SvgParameter>
             </se:Fill>
           </se:PolygonSymbolizer>
         </se:Rule>
@@ -121,7 +121,7 @@
           <se:PolygonSymbolizer>
             <se:Fill>
               <se:SvgParameter name="fill">#000004</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">0.75</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">1</se:SvgParameter>
             </se:Fill>
           </se:PolygonSymbolizer>
         </se:Rule>
