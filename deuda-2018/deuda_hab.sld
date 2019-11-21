@@ -32,7 +32,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>4</se:Size>
+              <se:Size>10</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -63,7 +63,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>6</se:Size>
+              <se:Size>12</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -94,7 +94,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>8</se:Size>
+              <se:Size>14</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -125,7 +125,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>10</se:Size>
+              <se:Size>16</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -156,7 +156,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>12</se:Size>
+              <se:Size>18</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -187,7 +187,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>14</se:Size>
+              <se:Size>20</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -218,7 +218,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>16</se:Size>
+              <se:Size>22</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -249,7 +249,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>18</se:Size>
+              <se:Size>24</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
@@ -280,7 +280,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>20</se:Size>
+              <se:Size>26</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
