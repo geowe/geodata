@@ -32,7 +32,7 @@
                 </se:Fill>
                 <se:Stroke/>
               </se:Mark>
-              <se:Size>10</se:Size>
+              <se:Size>7</se:Size>
             </se:Graphic>
           </se:PointSymbolizer>
         </se:Rule>
